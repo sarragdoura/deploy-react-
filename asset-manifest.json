@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/sarragdroura/deploy-react-.git/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/sarragdroura/deploy-react-.git/static/js/main.4fe1ec44.chunk.js",
-    "main.js.map": "/sarragdroura/deploy-react-.git/static/js/main.4fe1ec44.chunk.js.map",
+    "main.js": "/sarragdroura/deploy-react-.git/static/js/main.29b8132f.chunk.js",
+    "main.js.map": "/sarragdroura/deploy-react-.git/static/js/main.29b8132f.chunk.js.map",
     "runtime-main.js": "/sarragdroura/deploy-react-.git/static/js/runtime-main.b4875192.js",
     "runtime-main.js.map": "/sarragdroura/deploy-react-.git/static/js/runtime-main.b4875192.js.map",
     "static/css/2.b72b1a0e.chunk.css": "/sarragdroura/deploy-react-.git/static/css/2.b72b1a0e.chunk.css",
-    "static/js/2.81345a60.chunk.js": "/sarragdroura/deploy-react-.git/static/js/2.81345a60.chunk.js",
-    "static/js/2.81345a60.chunk.js.map": "/sarragdroura/deploy-react-.git/static/js/2.81345a60.chunk.js.map",
+    "static/js/2.731ddc15.chunk.js": "/sarragdroura/deploy-react-.git/static/js/2.731ddc15.chunk.js",
+    "static/js/2.731ddc15.chunk.js.map": "/sarragdroura/deploy-react-.git/static/js/2.731ddc15.chunk.js.map",
     "static/js/3.7329c933.chunk.js": "/sarragdroura/deploy-react-.git/static/js/3.7329c933.chunk.js",
     "static/js/3.7329c933.chunk.js.map": "/sarragdroura/deploy-react-.git/static/js/3.7329c933.chunk.js.map",
     "index.html": "/sarragdroura/deploy-react-.git/index.html",
     "static/css/2.b72b1a0e.chunk.css.map": "/sarragdroura/deploy-react-.git/static/css/2.b72b1a0e.chunk.css.map",
     "static/css/main.8c8b27cf.chunk.css.map": "/sarragdroura/deploy-react-.git/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.81345a60.chunk.js.LICENSE.txt": "/sarragdroura/deploy-react-.git/static/js/2.81345a60.chunk.js.LICENSE.txt",
+    "static/js/2.731ddc15.chunk.js.LICENSE.txt": "/sarragdroura/deploy-react-.git/static/js/2.731ddc15.chunk.js.LICENSE.txt",
     "static/media/1.98e02e55.jpg": "/sarragdroura/deploy-react-.git/static/media/1.98e02e55.jpg",
     "static/media/logo.6ce24c58.svg": "/sarragdroura/deploy-react-.git/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b4875192.js",
     "static/css/2.b72b1a0e.chunk.css",
-    "static/js/2.81345a60.chunk.js",
+    "static/js/2.731ddc15.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.4fe1ec44.chunk.js"
+    "static/js/main.29b8132f.chunk.js"
   ]
 }
